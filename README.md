@@ -2,7 +2,7 @@
 
 - An interactive to-do list with different areas for prioritizing tasks by urgency.
 
-## [Live Demo](https://jj-javascript.github.io/Notified/)
+## [Live Demo](https://palindromechecker.onrender.com/)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
